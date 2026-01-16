@@ -1,6 +1,6 @@
 # Versions
 # https://hub.docker.com/_/alpine
-ARG BASE_IMAGE=alpine:3.21
+ARG BASE_IMAGE=alpine:3.23.2
 # https://download.docker.com/linux/static/stable/
 ARG DOCKER_VERSION=28.0.0
 # https://github.com/docker/compose/releases
